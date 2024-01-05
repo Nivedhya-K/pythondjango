@@ -1,0 +1,10 @@
+.banner{
+    background-color:orchid;
+    text-align: center;
+    width:1500px;height:100px;
+    margin-bottom: 50px;
+}
+.banner-text{
+    top:50%;
+    left:70%;
+}
